@@ -11,7 +11,9 @@ export const DataPage = () => {
                         style={{ textAlign: "center" }}
                         className={isVisible ? "animate__animated animate__fadeInDown" : ""}
                     >
-                        <h1 style={{ paddingBottom: "100px" }}>ระบบฐานข้อมูลสารสนเทศเพื่อการบริหารจัดการ ( BigData )</h1>
+                        <h1 style={{ paddingBottom: "100px", fontSize: "50px" }}>
+                            ระบบฐานข้อมูลสารสนเทศเพื่อการบริหารจัดการ (BigData)
+                        </h1>
                     </div>
                 )}
             </TrackVisibility>
