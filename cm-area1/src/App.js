@@ -9,7 +9,7 @@ ReactGA.initialize("G-BL9PMBLF8T");
 
 
 function App() {
-    const [title] = useState("ระบบฐานข้อมูล สารสนเทศเพื่อการบริหารจัดการ (Bigdata)");
+    const [title] = useState("ระบบฐานข้อมูลสารสนเทศเพื่อการบริหารจัดการ (Bigdata)");
 
     
     useEffect(() => {
