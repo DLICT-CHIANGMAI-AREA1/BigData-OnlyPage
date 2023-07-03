@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Bigdata-Cm-Area1/static/css/main.d2b9549c.css",
-    "main.js": "/Bigdata-Cm-Area1/static/js/main.a5e68a91.js",
+    "main.css": "/Bigdata-Cm-Area1/static/css/main.d41ce77a.css",
+    "main.js": "/Bigdata-Cm-Area1/static/js/main.80629714.js",
     "static/media/footer-bg.svg": "/Bigdata-Cm-Area1/static/media/footer-bg.6f618f84d7da2703bf25.svg",
     "static/media/color-sharp.png": "/Bigdata-Cm-Area1/static/media/color-sharp.bea361cfef80fefc2d1e.png",
     "static/media/revicons.eot": "/Bigdata-Cm-Area1/static/media/revicons.a77de540a38981833f9e.eot",
@@ -10,11 +10,11 @@
     "static/media/revicons.woff": "/Bigdata-Cm-Area1/static/media/revicons.e8746a624ed098489406.woff",
     "static/media/background2.svg": "/Bigdata-Cm-Area1/static/media/background2.c819b6d26f47a95114ef.svg",
     "index.html": "/Bigdata-Cm-Area1/index.html",
-    "main.d2b9549c.css.map": "/Bigdata-Cm-Area1/static/css/main.d2b9549c.css.map",
-    "main.a5e68a91.js.map": "/Bigdata-Cm-Area1/static/js/main.a5e68a91.js.map"
+    "main.d41ce77a.css.map": "/Bigdata-Cm-Area1/static/css/main.d41ce77a.css.map",
+    "main.80629714.js.map": "/Bigdata-Cm-Area1/static/js/main.80629714.js.map"
   },
   "entrypoints": [
-    "static/css/main.d2b9549c.css",
-    "static/js/main.a5e68a91.js"
+    "static/css/main.d41ce77a.css",
+    "static/js/main.80629714.js"
   ]
 }
