@@ -46,7 +46,7 @@
     "web-vitals": "^2.1.4",
     "xlsx": "^0.18.5"
   },
-  "homepage": "https://DLICT-CHIANGMAI-AREA1.github.io/DLICT-WEBSITE",
+  "homepage": "https://DLICT-CHIANGMAI-AREA1.github.io/Big-Data-Cm-Area1",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
