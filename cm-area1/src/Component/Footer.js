@@ -1,8 +1,4 @@
 import { Container, Row, Col } from "react-bootstrap";
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { faPhone } from "@fortawesome/free-solid-svg-icons";
-import { faFacebook } from "@fortawesome/free-brands-svg-icons";
-import { faEnvelope } from "@fortawesome/free-solid-svg-icons";
 import { Statistic } from "antd";
 import { useState, useEffect } from "react";
 import ScrollToTop from "react-scroll-to-top";
