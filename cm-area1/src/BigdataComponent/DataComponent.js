@@ -12,7 +12,7 @@ export const DataPage = () => {
                         className={isVisible ? "animate__animated animate__fadeInDown" : ""}
                     >
                         <h1 style={{ paddingBottom: "100px", fontSize: "50px" }}>
-                            ระบบฐานข้อมูลสารสนเทศเพื่อการบริหารจัดการ (BigData)
+                            ระบบฐานข้อมูลสารสนเทศเพื่อการบริหารจัดการ (Big Data)
                         </h1>
                     </div>
                 )}
